@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "756125332025",
+    "firebase_url": "https://backgroundnotificationtest.firebaseio.com",
+    "project_id": "backgroundnotificationtest",
+    "storage_bucket": "backgroundnotificationtest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756125332025:android:dfe4be5b1ca37317",
+        "android_client_info": {
+          "package_name": "net.bravent.backgroundlocationtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "756125332025-kum2kbghnhk7ms8sj4v26m1n0v5p6soh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_qDR80aFbXU6gLBktZ-2cR2u6RXjaUFY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
